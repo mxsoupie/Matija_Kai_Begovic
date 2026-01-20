@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+p, ol, ul { 
+	color:#5F4296;
+	font:Sans-sherif;
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color: #F2E1EE;
+	padding: 20px;
+ }
+ h1, h2 {
+	 color:#630073;
+	 font: Sans-sherif;
+	 font-size:26px;
+	 width: 640px;
+	 background-color: #F2E1EE;
+ }
+ body {
+	 background-image: url(Koze/pozadina.jpeg);
+}
+a:link {
+	color:#5F4296;
+	font-size: 14px;
+	line-height:18px;
+	background-color: #F2E1EE;
+	padding: 3px;
+	border: 1px solid #4F1C6B
+}
+a:hover {
+	color:#F2E1EE;
+	font-size: 14px;
+	line-height:18px;
+	background-color: #5F4296;
+	padding: 3px;
+	border: 1px solid #4F1C6B
+}
